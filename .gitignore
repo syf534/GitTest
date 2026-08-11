@@ -1,0 +1,15 @@
+# 编译输出
+target/
+out/
+*.class
+
+# IDE配置
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# 日志和临时文件
+*.log
+*.tmp
